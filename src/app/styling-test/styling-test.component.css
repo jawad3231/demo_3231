@@ -1,0 +1,65 @@
+.spaces_between_rows {
+    margin-top: 8px;
+}
+
+.anchor_text {
+    text-decoration: none;
+}
+
+.card-body {
+    padding-bottom: 0px;
+}
+
+.cover_pics {
+    opacity: 1;
+    height: 75px;
+}
+
+.cover_Img_inner {
+    object-fit: cover;
+    border-radius: 5px;
+    height: 150px;
+    width: 100%;
+}
+
+.profile_pics {
+    margin-left: 30px;
+    border-radius: 50px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 0px grey;
+    height: 100px;
+    width: 100px;
+}
+
+.left_spaces {
+    margin-left: 25px;
+}
+
+.address_information {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.looking_for {
+    color: #959595;
+}
+
+.profile_discription {
+    color: #6c6c6c;
+}
+
+.btn-default {
+    border-color: #0d6efd;
+    color: #0d6efd;
+}
+
+.active_tab {
+    margin-top: 10px;
+    border-bottom: 2px solid #0d6efd;
+    color: #0d6efd;
+}
+
+.extra_info {
+    padding-left: 20%;
+}
